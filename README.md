@@ -39,7 +39,7 @@ ml_helper/                 # Project root (GitHub repository)
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your_username/ml-helper.git
+   https://github.com/yusufali03/ml-helper.git
    cd ml-helper
    ```
 2. **Create & activate a virtual environment**
